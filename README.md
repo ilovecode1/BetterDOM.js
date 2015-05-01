@@ -1,3 +1,5 @@
+BetterDOM's CDN https://cdn.rawgit.com/ilovecode1/BetterDOM.js/master/betterdom.min.js
+
 # Documentation
 
 ##Inner HTML
