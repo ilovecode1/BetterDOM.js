@@ -1,4 +1,4 @@
-BetterDOM's CDN https://cdn.rawgit.com/ilovecode1/BetterDOM.js/master/betterdom.min.js
+BetterDOM's CDN https://cdn.jsdelivr.net/gh/ilovecode1/BetterDOM.js@master/betterdom.min.js
 
 # Documentation
 
